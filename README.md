@@ -1,2 +1,2 @@
 # WEBSITES
-This is webste developed by ARKAN 
+This is website developed by ARKAN 
